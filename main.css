@@ -1,0 +1,49 @@
+body {
+
+}
+
+#background{
+	position:absolute;
+	left:0px;
+	top:0px;
+	z-index: -1;
+}
+
+.Bar {
+	position: relative;
+	font-size:10px;
+	height:20px;
+	padding: 2px;
+	margin: 2px;
+	z-index: 0;
+}
+
+.BarGroup{
+	position: absolute;
+	padding:1px;
+}
+
+.Year{
+	position: absolute;
+	padding:1px;
+	z-index: -1;
+}
+
+.Info{
+	border: 0px solid black;
+	position: absolute;
+	width:300px;
+	height:400px;
+	text-align:left;
+	background-color:White;
+	overflow-y:auto;
+	overflow-x:hidden;
+	z-index: 2;
+}
+.InfoImage{
+	clear: both;
+ 	display: block;
+ 	margin:auto;
+
+}
+
