@@ -1,4 +1,4 @@
-# Artist time line
+# Artist time line hehe
 
 A javascript and html5 project for learning purpose.
 
